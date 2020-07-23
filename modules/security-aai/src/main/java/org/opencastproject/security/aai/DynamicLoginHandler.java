@@ -20,8 +20,6 @@
  */
 package org.opencastproject.security.aai;
 
-import static org.opencastproject.security.api.SecurityConstants.GLOBAL_ADMIN_ROLE;
-
 import org.opencastproject.security.aai.api.AttributeMapper;
 import org.opencastproject.security.api.Group;
 import org.opencastproject.security.api.JaxbOrganization;
